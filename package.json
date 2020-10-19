@@ -1,0 +1,19 @@
+{
+  "name": "chatbottelegran",
+  "version": "1.0.0",
+  "description": "Chatbot",
+  "main": "index.js",
+  "dependencies": {
+    "dialogflow": "^1.2.0",
+    "node": "^14.14.0",
+    "node-telegram-bot-api": "^0.50.0",
+    "nodemon": "^2.0.6",
+    "youtube-node": "^1.3.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Caio Henrique",
+  "license": "ISC"
+}
